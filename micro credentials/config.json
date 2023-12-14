@@ -1,0 +1,10 @@
+{
+  "DEPLOYMENT_NAME":"gpt-35-turbo-16k",
+  "OPENAI_API_BASE":"https://azure-openai-testcgo.openai.azure.com/",
+  "OPENAI_API_VERSION":"2023-07-01-preview",
+  "OPENAI_API_KEY":"8113c98b58054e3892f97386191e9e39",
+  
+  "SEARCH_SERVICE_ENDPOINT": "https://mysearchserv1234.search.windows.net",
+  "SEARCH_INDEX_NAME": "recipes-vectors",
+  "SEARCH_ADMIN_KEY": "7Az0NYTzwUqdOU8gEPGyz24aBuMYRBVSSB75kIo3m2AzSeASVN7i"
+}
